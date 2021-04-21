@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+<<<<<<< Updated upstream
 VisualStudioVersion = 15.0.28307.1401
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreamHero", "ScreamHero\ScreamHero.csproj", "{5C7C1691-98FE-4B1C-BE29-7B925B0DDEC8}"
+=======
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreamHero", "ScreamHero.csproj", "{5C7C1691-98FE-4B1C-BE29-7B925B0DDEC8}"
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +26,10 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< Updated upstream
 		SolutionGuid = {4A899AD7-229A-4B86-A01A-3316C2FFC682}
+=======
+		SolutionGuid = {824FD80F-DD61-4798-9609-878CF7DE6999}
+>>>>>>> Stashed changes
 	EndGlobalSection
 EndGlobal
