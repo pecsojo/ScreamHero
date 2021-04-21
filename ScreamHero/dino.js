@@ -75,7 +75,7 @@
       var width = 0;
 
       // Pitch detection minimum volume
-      var minimum_volume = 130;
+      var minimum_volume = 80;
 
       //detectedScream = pitchVolume;
       // Get width if Recording started
