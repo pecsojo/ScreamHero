@@ -68,6 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.html" />
+    <Content Include="dino.css" />
+    <Content Include="dino.js" />
+    <Content Include="dino.png" />
     <Content Include="main.js" />
     <Content Include="matter.js" />
     <Content Include="sketch.min.js" />
